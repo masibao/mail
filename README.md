@@ -197,11 +197,11 @@ public class EmailUtils {
             content.append("</tr>");
         }
         content.append("</table>");
-        content.append("<h3>马轶 May\n" +
-                "后端开发工程师 \n" +
-                "Mobile：18516145032\n" +
-                "邮 箱：mayi@haitun.group\n" +
-                "地 址：上海市嘉定区众仁路399号，运通星财富广场A座5楼</h3>");
+        content.append("<h3>xxxxx May\n" +
+                "xxxxxx \n" +
+                "Mobile：xxxxxxx\n" +
+                "邮 箱：xxxx\n" +
+                "地 址：上海市嘉定区xxx</h3>");
         content.append("</body></html>");
         return content.toString();
     }
